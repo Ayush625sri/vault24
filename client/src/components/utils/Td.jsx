@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
-const Td = ({value}) => {
+const Td = ({ value }) => {
   return (
-    <td className=" text-lg md:text-xl lg:text-2xl py-4 font-normal text-center">{value}</td>
-  )
-}
+    <td className=" text-lg md:text-xl lg:text-2xl py-4 font-normal text-center">
+      {value}
+    </td>
+  );
+};
 
-export default Td
+export default Td;
