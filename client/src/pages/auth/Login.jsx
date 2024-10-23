@@ -94,7 +94,7 @@ const Login = () => {
               className="flex items-center justify-center  shadow-md text-blue-600 w-full p-2 mt-4 bg-white  border-2 shadow-indigo-300 hover:scale-95 rounded-xl transition duration-300 ease-in-out"
             >
               <img
-                src="public/images/google-g-icon.png"
+                src="/images/google-g-icon.png"
                 alt="Google"
                 className="h-5 mr-2"
               />
